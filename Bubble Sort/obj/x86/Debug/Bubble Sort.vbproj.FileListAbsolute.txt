@@ -1,0 +1,9 @@
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.xml
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\obj\x86\Debug\Bubble_Sort.Form1.resources
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\obj\x86\Debug\Bubble_Sort.Resources.resources
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\obj\x86\Debug\Bubble Sort.vbproj.GenerateResource.Cache
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\obj\x86\Debug\Bubble Sort.exe
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\obj\x86\Debug\Bubble Sort.xml
+\\EasiServ-Curric\Users$\Students\Work\2021\jlake\Visual Studio 2010\Projects\Bubble Sort\Bubble Sort\obj\x86\Debug\Bubble Sort.pdb
